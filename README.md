@@ -9,7 +9,7 @@ This is a directory of 3D Files to be used for 3D Drawing in AutoCAD.
 
 
 ## Connectors
-*  [DC Jack 5.5mm Case Mount](https://grabcad.com/library/5-5mm-panel-mount-dc-jack-1)
+*  DC Jack 5.5mm Case Mount[GradCAD](https://grabcad.com/library/5-5mm-panel-mount-dc-jack-1)
 
 ![DC Barrel Jack](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/5495c067c8e236037a4ac9e2ef9d3aae/large.png)
 
