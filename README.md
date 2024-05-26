@@ -4,8 +4,8 @@ This is a directory of 3D Files to be used for 3D Drawing in AutoCAD.
 
 ## Power Storage
 
-*  [18650 Battery](https://grabcad.com/library/ncr-18650-battery-1)
-![18650 Battery](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f0a9c2c7aa640745680aaf00defcee66/large.png)
+*  18650 Battery[GrabCAD](https://grabcad.com/library/ncr-18650-battery-1)
+*  ![18650 Battery](https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/f0a9c2c7aa640745680aaf00defcee66/large.png)
 
 
 ## Connectors
